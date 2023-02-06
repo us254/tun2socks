@@ -32,7 +32,6 @@ Execute this command afterwards.
 
 ```
 tun2socks -device wintun -proxy socks5://host:port
-
 ```
 ## Locate the server address in your v2ray configuration
 
