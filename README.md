@@ -42,17 +42,13 @@ route print
 
 ```
 ---------------------
- Connection-specific DNS Suffix: domain.name
-
-IPv4 Address: 192.168.1.5
-
-Subnet Mask: 255.255.255.0
-
-Default Gateway: 192.168.1.1
+ Connection-specific DNS Suffix  . : domain.name
+   IPv4 Address. . . . . . . . . . . : 192.168.1.5
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
 
 Interface List
-
-# 41: WireGuard Tunnel
+ 41...........................WireGuard Tunnel
 ---------------------------
 
 
