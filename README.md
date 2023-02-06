@@ -66,7 +66,7 @@ Update the last two lines, including `IF NUM` and `primary gateway ip`, based on
 
 route add 0.0.0.0 mask 0.0.0.0 10.10.10.1 if `Interface NUM` metric 5
 
-oute add `server ip` mask 255.255.255.255 `Default Gateway`
+route add `server ip` mask 255.255.255.255 `Default Gateway`
 
 ```
 
