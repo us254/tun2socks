@@ -64,7 +64,7 @@ The outcome upon executing the command will be similar to this.
 
 
 After opening a new Command Prompt window, run these commands based on the outcome of the previous command.
-`Modify the final two lines` by substituting `41` with your `Interface NUM`, `185.221.160.231` with your v2ray `server ip`, and `192.168.1.1` with your `Default Gateway`.
+
 
 
 ```
