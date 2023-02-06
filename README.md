@@ -40,10 +40,9 @@ tun2socks -device wintun -proxy socks5://host:port
 Execute this command afterwards.
 
 
-```
+`
 route print
-
-```
+`
 
 The outcome upon executing the command will be similar to this.
 
