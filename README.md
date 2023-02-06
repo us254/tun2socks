@@ -34,22 +34,22 @@ tun2socks -device wintun -proxy socks5://127.0.0.1:10808
 Locate the server address in your v2ray configuration.
 For instance, the address of the server in the v2ray settings is 185.221.160.231.
 
-Execute this command afterwards
+Execute this command afterwards.
 
 
 ```
 route print
 
-```
 ---------------------
- Connection-specific DNS Suffix  . : domain.name
-   IPv4 Address. . . . . . . . . . . : 192.168.1.5
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.1.1
+ Connection-specific DNS Suffix: domain.name
+ IPv4 Address: 192.168.1.5
+ Subnet Mask: 255.255.255.0
+ Default Gateway: 192.168.1.1
 
 Interface List
- 41...........................WireGuard Tunnel
+ 41: WireGuard Tunnel
 ---------------------------
+
 
 After opening a new Command Prompt window, run these commands based on the outcome of the previous command.
 
