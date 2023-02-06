@@ -16,7 +16,7 @@ In order to include the folder with the tun2socks files in the Windows environme
 
 ----------------------------------------------
 Execute this command afterwards.
-Adjust the socks5://host:port to the appropriate configuration specified in the client's config file for inbound V2Ray, typically set to socks5://127.0.0.1:10808.
+Adjust the socks5://host:port to the appropriate configuration specified in the client's config file for inbound V2Ray, typically set to `socks5://127.0.0.1:10808` .
 
 `
 tun2socks -device wintun -proxy socks5://host:port
