@@ -69,8 +69,7 @@ After opening a new Command Prompt window, run these commands based on the outco
 netsh interface ip set address name=wintun source=static addr=10.10.10.1 mask=255.255.255.0 gateway=none
 netsh interface ip add dns name=wintun addr=1.1.1.1
 netsh interface ipv6 set interface wintun forwarding=disabled
-route add 0.0.0.0 mask 0.0.0.0 10.10.10.1 if [Interface NUM] metric 5
-route add [server ip] mask 255.255.255.255 [Default Gateway]
+route add 0.0.0.0 mask 0.0.0.0 10.10.10.1 if <span style="color:red;">Interface NUM</span> metric 5
+route add <span style="color:red;">server ip</span> mask 255.255.255.255 <span style="color:red;">Default Gateway</span>
 
 ```
-
