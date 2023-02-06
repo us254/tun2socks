@@ -20,10 +20,13 @@ Adjust the `socks5://host:port` to the appropriate configuration specified in th
 `
 tun2socks -device wintun -proxy socks5://host:port
 `
- To see only the default gateway, you can use the following command:
-ipconfig | findstr /r /c:"Default Gateway.*:"
+
 
 Run this command in a separate command prompt window .
+
+ To see only the default gateway, you can use the following command:
+ 
+`ipconfig | findstr /r /c:"Default Gateway.*:"`
 
 `
 route print
