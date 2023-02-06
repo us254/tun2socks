@@ -45,6 +45,9 @@ Execute this command afterwards.
 route print
 
 ```
+
+The outcome upon executing the command will be similar to this.
+
 ---------------------
  ### Connection Information
 
