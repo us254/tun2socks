@@ -62,8 +62,10 @@ route print
 
 
 After opening a new Command Prompt window, run these commands based on the outcome of the previous command.
-Update the last two lines, including <IF NUM> and <primary gateway ip>, based on the results obtained from the route print command. Also, replace <server ip> with the server address specified in your v2ray configuration.
+Update the last two lines, including `IF NUM` and `primary gateway ip`, based on the results obtained from the route print command. Also, replace `server ip` with the server address specified in your v2ray configuration.
 
+route add 0.0.0.0 mask 0.0.0.0 10.10.10.1 if `Interface NUM` metric 5
+oute add `server ip` mask 255.255.255.255 `Default Gateway`
 
 ```
 
