@@ -35,8 +35,9 @@ Execute this command afterwards.
 tun2socks -device wintun -proxy socks5://127.0.0.1:10808
 
 ```
-Locate the server address in your v2ray configuration.
-For instance, the address of the server in the v2ray settings is 185.221.160.231.
+## Locate the server address in your v2ray configuration
+For instance, the server address in the v2ray settings is `185.221.160.231`.
+
 
 Execute this command afterwards.
 
