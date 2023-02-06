@@ -3,7 +3,9 @@
 To run a command in Command Prompt (CMD) on Windows, you can follow these steps:
 
 1. Click on the Start button and search for `Command Prompt` or `cmd`.
+
 2. Right-click on the `Command Prompt` result and select `Run as administrator` (if you want to run the command with administrative privileges).
+
 3. In the `Command Prompt` window, type the command you want to run and press `Enter`.
 
 
