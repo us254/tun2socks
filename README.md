@@ -62,10 +62,7 @@ route print
 
 
 After opening a new Command Prompt window, run these commands based on the outcome of the previous command.
-Alter the final two lines, replacing <IF NUM> and <primary gateway ip> with the relevant information obtained from the route print command, and change <server ip> to the server address found in your v2ray configuration.
-
-
-
+Update the last two lines, including <IF NUM> and <primary gateway ip>, based on the results obtained from the route print command. Also, replace <server ip> with the server address specified in your v2ray configuration.
 
 
 ```
