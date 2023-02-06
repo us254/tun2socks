@@ -15,14 +15,15 @@ In order to include the folder with the tun2socks files in the Windows environme
 --------------------------------
 To add the path of a folder to the Windows environment path system, you can follow these steps:
 
-1:  Right-click on the Start button and select System
-2:  Click on Advanced system settings
-3:  Click on the Environment Variables button
-4:  Under System Variables, scroll down and find the Path variable
-5:  Click on the Edit button
-6:  Click on New and add the path of the folder you want to add
-7:  Click OK to close all the windows
-8:  The new path should now be available in the Windows environment path system
+1. Right-click on the Start button and select "System".
+2. Click on "Advanced system settings".
+3. Click on the "Environment Variables" button.
+4. Under "System Variables", scroll down and find the "Path" variable.
+5. Click on the "Edit" button.
+6. Click on "New" and add the path of the folder you want to add.
+7. Click "OK" to close all the windows.
+8. The new path should now be available in the Windows environment path system.
+
 ----------------------------------------------
 Execute this command afterwards.
 
