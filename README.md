@@ -43,13 +43,18 @@ route print
 ```
 ---------------------
  Connection-specific DNS Suffix: domain.name
- IPv4 Address: 192.168.1.5
- Subnet Mask: 255.255.255.0
- Default Gateway: 192.168.1.1
+
+IPv4 Address: 192.168.1.5
+
+Subnet Mask: 255.255.255.0
+
+Default Gateway: 192.168.1.1
 
 Interface List
- 41: WireGuard Tunnel
+
+41: WireGuard Tunnel
 ---------------------------
+
 
 
 After opening a new Command Prompt window, run these commands based on the outcome of the previous command.
