@@ -21,8 +21,7 @@ Execute this command afterwards.
 tun2socks -device wintun -proxy socks5://host:port
 `
 
-Execute this command afterwards.
-
+Run this command in a separate command prompt window .
 
 `
 route print
