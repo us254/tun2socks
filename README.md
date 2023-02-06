@@ -32,6 +32,7 @@ Run this command in a separate command prompt window .
 The outcome upon executing the command will be similar to this.
 
 Default Gateway . . . . . . . . . : 192.168.1.1
+
 --------------------
 route print -4
 `
