@@ -56,11 +56,11 @@ After opening a new Command Prompt window, run these commands based on the outco
 
 ```
 
-1:  netsh interface ip set address name=wintun source=static addr=10.10.10.1 mask=255.255.255.0 gateway=none
-2:  netsh interface ip add dns name=wintun addr=1.1.1.1
-3:  netsh interface ipv6 set interface wintun forwarding=disabled
-4:  route add 0.0.0.0 mask 0.0.0.0 10.10.10.1 if 41 metric 5
-5:  route add 185.221.160.231 mask 255.255.255.255 192.168.1.1
+netsh interface ip set address name=wintun source=static addr=10.10.10.1 mask=255.255.255.0 gateway=none
+netsh interface ip add dns name=wintun addr=1.1.1.1
+netsh interface ipv6 set interface wintun forwarding=disabled
+route add 0.0.0.0 mask 0.0.0.0 10.10.10.1 if 41 metric 5
+oute add 185.221.160.231 mask 255.255.255.255 192.168.1.1
 
 ```
 
