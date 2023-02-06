@@ -61,7 +61,7 @@ The outcome upon executing the command will be similar to this.
 
 
 After opening a new Command Prompt window, run these commands based on the outcome of the previous command.
-
+The "server IP" in a v2ray setting can refer to either the IP address of a cloudflare server or the IP address of your own server, depending on how it is configured.
 
 
 ```
